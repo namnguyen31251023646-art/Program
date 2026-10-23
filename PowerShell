@@ -1,0 +1,2 @@
+$env:SENDER_EMAIL = "uehktxsmartnet@ueh.edu.vn"
+$env:SENDER_APP_PASSWORD = "kifbizsvwiykyiuh"
